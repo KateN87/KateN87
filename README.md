@@ -17,7 +17,7 @@ I'm a Junior Front End Developer hoping to one day become Senior Full Stack
 - :seedling: Currently increasing my tech stack with Angular
 - :computer: Tech enthusiast
 - :space_invader: Gamer at heart
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin?color=blue&logo=Linkedin&logoColor=linkedin-blue)](https://www.linkedin.com/in/knordqvist)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin?color=blue&logo=Linkedin&logoColor=linkedin-blue)](https://www.linkedin.com/in/knordqvist)
 
   ---
 
