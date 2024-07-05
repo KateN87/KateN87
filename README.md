@@ -13,7 +13,7 @@
 ### About Me:
 
 I'm a Junior Front End Developer hoping to one day become Senior Full Stack
-- :woman_technologist: Frontend Developer intern at Nexer Group
+- :woman_technologist: Frontend Developer consultant at Nexer Group
 - :seedling: Currently increasing my tech stack with Angular
 - :computer: Tech enthusiast
 - :space_invader: Gamer at heart
@@ -33,6 +33,7 @@ I'm a Junior Front End Developer hoping to one day become Senior Full Stack
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="MySQL" alt="Angular" width="40" height="40"/>&nbsp;
+   <img src="[https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg](https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)" title="AWSL" alt="AWS" width="40" height="40"/>&nbsp;
 </div>
 
 ---
